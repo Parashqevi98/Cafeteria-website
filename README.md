@@ -2,7 +2,7 @@
 
 Cafeteria Website is a frontend-only web project focused on UI/UX and visual design for a modern cafeteria or coffee shop.
 
-🚧 This project is currently under development and represents a design prototype.
+This project is currently under development and represents a design prototype.
 
 ## Tech Stack
 - HTML5
